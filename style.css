@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+    background-color: black;
+}
+h1{
+    font-size:40px;
+    font-family:cursive;
+    font-weight:350;
+}
+h2{
+    font-family: sans-serif;
+}
+#intro{
+    background-color: lightsalmon;
+}
+#animals{
+    background-color:lemonchiffon;
+}
+#tools_or_box{
+    background-color: lightsalmon;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
